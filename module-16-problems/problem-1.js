@@ -24,6 +24,6 @@ var applePrice = 400;
 var orangePrice = 300;
 var expense = applePrice + orangePrice;
 var giveBack = moneyGiven - expense;
-console.log('Money Given: ' +moneyGiven);
-console.log('Total Spent: ' +expense)
-console.log('Give Back to Mom: ' +giveBack);
+console.log('Money Given: ' + moneyGiven);
+console.log('Total Spent: ' + expense);
+console.log('Give Back to Mom: ' + giveBack);
